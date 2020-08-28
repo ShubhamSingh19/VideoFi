@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">VideoFi</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="thumbnail"></string>
+    <string name="action_like"></string>
+    <string name="action_dislike"></string>
+    <string name="action_comment"></string>
+    <string name="action_bookmark"></string>
+    <string name="play_label">Play</string>
+    <string name="user_name">Shubham_Singh</string>
+    <string name="user_name1">Neha_Jain</string>
+    <string name="likes_text">548 views</string>
+    <string name="likes_text1">879 views</string>
+    <string name="information_label">An 8-week meditation course will cause the amygdala,
+        associated with fear and other emotions, to shrink while the prefrontal cortex,
+        associated with awareness, concentration and decision-making, will thicken.</string>
+    <string name="information_label1">To shrink while the prefrontal cortex, an 8-week meditation course will cause the amygdala,
+        associated with fear and other emotions.</string>
+
+</resources>
